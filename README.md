@@ -16,10 +16,11 @@
 ## 주요 구성
 
 ### 사이트 맵 구조
+<img width="1125" height="483" alt="image" src="https://github.com/user-attachments/assets/61513a98-a567-47ec-adc9-77552e81bdac" />
 
----
+<br>
 
-## Component 구성
+> Component 구성
 
 | 구분 | 파일명 | 설명 |
 |------|--------|------|
@@ -28,9 +29,9 @@
 | **Career** | WorkExperience, Charity | 아르바이트, 인턴, 봉사활동 |
 | **공통** | Sidebar, Login, Index 등 | 기본 라우팅 및 UI 요소 |
 
----
+<br>
 
-## 스타일 구성 (CSS)
+> 스타일 구성 (CSS)
 
 - 각 컴포넌트 별로 별도 CSS 파일 구성  
   예: `Ability.css`, `Career.css`, `Project.css`, `Resume.css` 등
